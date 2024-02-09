@@ -13,7 +13,7 @@ I have a keen interest in exploring the fascinating world of data structures and
 
 ## 🎓 Education
 - B.Tech in Computer Science and Engineering
-  - Accurate Institute of Management and Technology, Greater Noida
+  - Accurate Institute of Management and Technology, Greater Noida  (8.7 CGPA)
 
 ## 🚀 Let's Connect!
 If you're into Java development, data structures, algorithms, or anything tech-related, let's connect and explore the world of coding together. I believe in a commitment to continuous learning and bring a fresh perspective to every project.
