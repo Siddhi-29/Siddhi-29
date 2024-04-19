@@ -1,6 +1,6 @@
 # Siddhi Pandey | Java Developer | Data Structures Enthusiast
 
-Hello there! I'm Siddhi Pandey, a passionate Java Developer dedicated to crafting efficient and scalable applications. With a strong foundation in Java, SQL, Spring MVC, JDBC, and DSA, I thrive on solving complex problems and contributing to optimal software performance.
+Hi there! I'm Siddhi Pandey, a passionate Java Developer dedicated to crafting efficient and scalable applications. With a strong foundation in Java, SQL, Spring MVC, JDBC, and DSA, I thrive on solving complex problems and contributing to optimal software performance.
 
 ## 🌐 Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-pandey/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%234CAF50.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pandeysiddhi/) [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA500.svg?logo=Leetcode&logoColor=black)](https://leetcode.com/user5050Rt/)
