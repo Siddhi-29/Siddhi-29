@@ -1,6 +1,17 @@
-# Siddhi Pandey | Java Developer | Data Structures Enthusiast
+# Siddhi Pandey
+Software Engineer | Java • Spring Boot • Microservices • AWS • Kubernetes | Building Enterprise Wealth Platforms
 
-Hi there! I'm Siddhi Pandey, a passionate Java Developer dedicated to crafting efficient and scalable applications. With a strong foundation in Java, SQL, Spring MVC, JDBC, and DSA, I thrive on solving complex problems and contributing to optimal software performance.
+I am a Backend Engineer specializing in building scalable, secure, and resilient distributed systems within the Financial Services domain. My core expertise lies in designing microservices architectures, cloud-native migrations, and event-driven data pipelines that power next-generation enterprise wealth management platforms and core registry systems.
+
+With 3 years of enterprise experience, I focus on transforming legacy wealth infrastructure into high-performance, cloud-native applications. I enjoy tackling complex architectural bottlenecks—whether it's optimizing heavy transactional data workflows, automating enterprise batch processing pipelines, or containerizing systems from scratch.
+
+🛠 Core Tech Stack & Competencies:
+• Languages & Frameworks: Java (Core, Advanced, Concurrency), Spring Boot, Microservices, J2EE
+• Cloud & DevOps: AWS (Lambda, SQS, S3), Docker, Kubernetes (K8s), Jenkins CI/CD
+• Databases & Messaging: Oracle SQL, Apache Kafka, IBM MQ
+• Observability & Distributed Tools: ELK Stack, Control-M, Agile / Scrum
+
+I am passionate about clean code practices, distributed systems architecture, and robust engineering design. Always happy to connect with fellow engineers, tech leaders, and innovators in the FinTech and Cloud-Native space!
 
 👨‍💻 Know more about me at [siddhi-pandey-vercel](https://portfolio-mauve-eight-47.vercel.app/)
 
