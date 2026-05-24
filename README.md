@@ -6,10 +6,10 @@ I am a Backend Engineer specializing in building scalable, secure, and resilient
 With 3 years of enterprise experience, I focus on transforming legacy wealth infrastructure into high-performance, cloud-native applications. I enjoy tackling complex architectural bottlenecks—whether it's optimizing heavy transactional data workflows, automating enterprise batch processing pipelines, or containerizing systems from scratch.
 
 🛠 Core Tech Stack & Competencies:
-• Languages & Frameworks: Java (Core, Advanced, Concurrency), Spring Boot, Microservices, J2EE
-• Cloud & DevOps: AWS (Lambda, SQS, S3), Docker, Kubernetes (K8s), Jenkins CI/CD
-• Databases & Messaging: Oracle SQL, Apache Kafka, IBM MQ
-• Observability & Distributed Tools: ELK Stack, Control-M, Agile / Scrum
+• **Languages & Frameworks:** Java (Core, Advanced, Concurrency), Spring Boot, Microservices, J2EE
+• **Cloud & DevOps:** AWS (Lambda, SQS, S3), Docker, Kubernetes (K8s), Jenkins CI/CD
+• **Databases & Messaging:** Oracle SQL, Apache Kafka, IBM MQ
+• **Observability & Distributed Tools:** ELK Stack, Control-M, Agile / Scrum
 
 I am passionate about clean code practices, distributed systems architecture, and robust engineering design. Always happy to connect with fellow engineers, tech leaders, and innovators in the FinTech and Cloud-Native space!
 
