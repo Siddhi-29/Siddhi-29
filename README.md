@@ -5,7 +5,8 @@ I am a Backend Engineer specializing in building scalable, secure, and resilient
 
 With 3 years of enterprise experience, I focus on transforming legacy wealth infrastructure into high-performance, cloud-native applications. I enjoy tackling complex architectural bottlenecks—whether it's optimizing heavy transactional data workflows, automating enterprise batch processing pipelines, or containerizing systems from scratch.
 
-🛠 Core Tech Stack & Competencies:
+🛠 **Core Tech Stack & Competencies:**
+
 • **Languages & Frameworks:** Java (Core, Advanced, Concurrency), Spring Boot, Microservices, J2EE
 • **Cloud & DevOps:** AWS (Lambda, SQS, S3), Docker, Kubernetes (K8s), Jenkins CI/CD
 • **Databases & Messaging:** Oracle SQL, Apache Kafka, IBM MQ
